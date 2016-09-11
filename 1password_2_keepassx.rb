@@ -8,6 +8,7 @@
 
 require 'json'
 require 'erb'
+require 'cgi'
 
 # mapping of groups to keepassx icons
 @group_icons = {
